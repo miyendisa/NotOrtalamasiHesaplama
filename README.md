@@ -16,7 +16,7 @@ Sınıfta Kaldınız." çıktısını vermektedir.
 ## Installation
 Projeyi clonelayın.
 
-> https://github.com/miyendisa/notortalamasiprojesi.git
+> https://github.com/miyendisa/NotOrtalamasiHesaplama.git
 
 ---
 
